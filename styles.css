@@ -1,0 +1,25 @@
+*{
+  font-family: Inter;
+}
+
+body {
+  background-color: #eff1fa;
+}
+
+.inputtext {
+  background-color: #eff1fa;
+  font-size: 25px;
+  font-weight:bolder;
+}
+
+.h4text{
+  font-size: 25px;
+  font-weight:bolder;
+}
+
+.imgmuñeco{
+  width: 50% ;
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto;
+}
